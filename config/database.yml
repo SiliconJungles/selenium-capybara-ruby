@@ -1,0 +1,2 @@
+test:
+  url: postgresql://localhost/selenium_capybara_test?pool=5
